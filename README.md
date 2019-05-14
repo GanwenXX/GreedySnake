@@ -6,4 +6,4 @@ a demo of my game
 
 #谢谢
 ![image]
-(http://github.com/GanwenXX/GreedySnake/raw/master/new.PNG)
+(https://github.com/GanwenXX/GreedySnake/blob/master/ING.PNG)
