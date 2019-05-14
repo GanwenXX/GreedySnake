@@ -6,4 +6,4 @@ a demo of my game
 
 #谢谢
 [image text]!
-(http://github.com/GanwenXX/GreedySnake/raw/)
+(http://github.com/GanwenXX/GreedySnake/raw/master/初始状态.png)
