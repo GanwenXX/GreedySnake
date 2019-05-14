@@ -5,5 +5,4 @@ a demo of my game
 #欢迎试玩，后续会完善更多方面，但不会很快
 
 #谢谢
-![image]
-(https://github.com/GanwenXX/GreedySnake/blob/master/ING.PNG)
+![image](https://github.com/GanwenXX/GreedySnake/blob/master/ING.PNG)
