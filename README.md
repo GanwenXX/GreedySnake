@@ -5,4 +5,9 @@ a demo of my game
 #欢迎试玩，后续会完善更多方面，但不会很快
 
 #谢谢
-![image](https://github.com/GanwenXX/GreedySnake/blob/master/ING.PNG)
+#当你打开游戏时的界面
+![start](https://github.com/GanwenXX/GreedySnake/blob/master/new.PNG)
+#当你玩游戏时的界面
+![play](https://github.com/GanwenXX/GreedySnake/blob/master/ING.PNG)
+
+#等我找到制作gif动图的时候再来加动图
