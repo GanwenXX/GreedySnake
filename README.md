@@ -10,4 +10,4 @@ a demo of my game
 #当你玩游戏时的界面
 ![play](https://github.com/GanwenXX/GreedySnake/blob/master/ING.PNG)
 
-#等我找到制作gif动图的时候再来加动图
+#等我找到制作gif动图方法的时候再来加动图
